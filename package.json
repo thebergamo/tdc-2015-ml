@@ -1,0 +1,25 @@
+{
+  "name": "tdc-2015-ml",
+  "version": "1.0.0",
+  "description": "Machine Learning - Classificação de Artigos por Jaro Winkler Distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebergamo/tdc-2015-ml.git"
+  },
+  "keywords": [
+    "ml",
+    "machine",
+    "learning",
+    "natural"
+  ],
+  "author": "Marcos Bérgamo <marcos@thedon.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebergamo/tdc-2015-ml/issues"
+  },
+  "homepage": "https://github.com/thebergamo/tdc-2015-ml"
+}
